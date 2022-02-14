@@ -3,9 +3,9 @@
 
 # 1. Group Member Information and Availability:
 
-- Lilian Ilodigwe (Preferred Contact Method: Discord @ shuu.#0973)
-- Full Github Username: shuu-glitch
-- Timezone: Eastern Standard Time
+# Lilian Ilodigwe (Preferred Contact Method: Discord @ shuu.#0973)
+# Full Github Username: shuu-glitch
+# Timezone: Eastern Standard Time
     > Monday: FREE after 4:30pm.
     > Tuesday: FREE after 4:30pm.
     > Wednesday: FREE after 3:00pm.
