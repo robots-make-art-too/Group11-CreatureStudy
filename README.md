@@ -12,7 +12,7 @@ Blah BLah Blah
     > Tuesday: FREE after 4:30pm.
     > Wednesday: FREE after 3:00pm.
     > Thursday: FREE after 4:30pm.
-    > Friday: N/A.
+    > Friday: N/A (work).
     > Saturday: FREE. (tentative)
     > Sunday: FREE. (tentative)
 
