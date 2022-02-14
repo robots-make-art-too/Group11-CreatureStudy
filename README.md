@@ -1,6 +1,10 @@
 # GROUP 11 .md FILE!
 # Group Name: CREATURE STUDY. (for requirement #1)
 
+<<<<<<< HEAD
+=======
+Blah BLah Blah blah blah blah
+>>>>>>> dev-Yinkan
 
 # 1. Group Member Information and Availability:
 
