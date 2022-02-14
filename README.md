@@ -24,6 +24,7 @@
     > Friday: FREE after 2:30pm.
     > Saturday: FREE
     > Sunday: FREE
+    my favorite food is cheese
 
 # Yinkan Chen (Preferred Contact Method: Discord @ yKoon#8362)
 # Full Github Username: hambagah
