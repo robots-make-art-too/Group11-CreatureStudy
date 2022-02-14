@@ -1,8 +1,6 @@
 # GROUP 11 .md FILE!
 # Group Name: CREATURE STUDY. (for requirement #1)
 
-Blah BLah Blah blah blah blah
-
 # 1. Group Member Information and Availability:
 
 # Lilian Ilodigwe (Preferred Contact Method: Discord @ shuu.#0973)
