@@ -1,14 +1,17 @@
 # Technical
 
 location based AR: using a location to display AR content 
+
 https://medium.com/swlh/build-your-location-based-augmented-reality-web-app-a841956eed2c
 
 How to edit photos in blender
+
 https://www.youtube.com/watch?v=LDBSMwWUWG8
 
 # Aesthetic
 
 Example of Dinosaur AR
+
 https://www.youtube.com/watch?v=jm_EUXOCVkU
 
 https://www.youtube.com/watch?v=XxlpnNEk6eY
