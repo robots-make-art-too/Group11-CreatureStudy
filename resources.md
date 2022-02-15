@@ -1,5 +1,5 @@
 
-# Technical
+# Technical(Gianluca Sabanito)
 
 location based AR: using a location to display AR content 
 
