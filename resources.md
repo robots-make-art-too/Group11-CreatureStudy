@@ -1,3 +1,25 @@
+
+# Technical
+
+location based AR: using a location to display AR content 
+
+https://medium.com/swlh/build-your-location-based-augmented-reality-web-app-a841956eed2c
+
+How to edit photos in blender
+
+https://www.youtube.com/watch?v=LDBSMwWUWG8
+
+# Aesthetic
+
+Example of Dinosaur AR
+
+https://www.youtube.com/watch?v=jm_EUXOCVkU
+
+https://www.youtube.com/watch?v=XxlpnNEk6eY
+
+Image of AR dino
+![imgs](https://kidsactivitiesblog--o--com.follycdn.com/wp-content/uploads/2020/07/google-ar-dinosaurs-feature.png)
+
 # Resources (found by Lilian):
 ## Technical:
 ### Building AR functionality with code:
@@ -63,3 +85,4 @@ Idea of concept
 
 Idea of concept with low poly model
 ![imgs](https://image.winudf.com/v2/image/YW5pbWFsQVIuQ3JlYXRpdmVTdHVkaW8uYW5pbWFsQVJfc2NyZWVuXzRfMTUwODU0NjUxMV8wNjY/screen-4.jpg?fakeurl=1&type=.jpg)
+
