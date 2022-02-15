@@ -47,21 +47,20 @@
     > Saturday:
     > Sunday:
 
-# Gianluca Sabanito (Preferred Contact Method: Discord @ TypicalKnight007#7442)
-# Full Github Username: Gianlucasabanito
-# Timezone: Eastern Standard Time
-    > Monday: 3:00 PM
-    > Tuesday: 3:00 PM
-    > Wednesday: 3:00 PM
-    > Thursday: 3:00 PM
-    > Friday: 3:00 PM
-    > Saturday: FREE
-    > Sunday: FREE
-        > Special Conditions: Weekdays after 7:00pm are better to meet; sometimes out on weekends after 4pm.
+# Gianluca Sabanito (Preferred Contact Method: N/A)
+# Full Github Username:
+# Timezone:
+    > Monday:
+    > Tuesday:
+    > Wednesday:
+    > Thursday:
+    > Friday:
+    > Saturday:
+    > Sunday:
 
 # 2. Who will have write access to merge Github branches, pull requests, and content updates? Will it be one, two, or all group members? Is no one comfortable enough to do so?
 
-> Yinkan, Lilian, Gianluca
+> Yinkan, Lilian
 
 # 3. Make a private repo, give all members access.
 
@@ -70,18 +69,18 @@
 # 4. Create a branch in your group repo - one for each student. These will be "working copies", or "dev branches". There should be ONE of the main, base, or primary branch - and then additional branches for each member of the group. Name the branches dev-student name (first name only or last name only is also fine).
 
 [X] The branch "dev-Lilian" exists.
-[X] The branch "dev-Lucas" exists.
+[] The branch "dev-Lucas" exists.
 [X] The branch "dev-Yinkan" exists.
-[X] The branch "dev-Gianluca" exists.
+[] The branch "dev-Gianluca" exists.
 [] The branch "dev-Yuanchen" exists.
 
 # 5. Submit this document to the main branch.
 
-[X] Done.
+[] Done.
 
 # 6. Everyone has cloned a local copy once all the above steps have been completed.
 
-[x] Done.
+[] Done.
 
 Remember this - put it on your computer screen if you have to:
 > Git Status -> Git Fetch -> Git Pull -> Git add -> Git commit -> Git push
@@ -108,6 +107,5 @@ Whoever has merge access - merge all the files back into one. THIS CANNOT BE COP
 
 Edit and combine the resources together - there should be about 40-50 resources total; 20-25 of each type.
 
-[] The resources.md file should be located on the main branch along with this Group document.
 
 # Finally, you are asked to document a discussion between group members regarding the technical and aesthetic initial thoughts - it would be best to read some of the provided context first as well as the expanded details of the project. A successful project must consider a larger context and concept - situating your technical output/work with critical thought is as important as the programming design.
