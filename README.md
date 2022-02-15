@@ -10,8 +10,8 @@
 - Wednesday: FREE after 3:00pm.
 - Thursday: FREE after 4:30pm.
 - Friday: N/A (work).
-- Saturday: FREE. (tentative)
-- Sunday: FREE. (tentative)
+- Saturday: FREE. (tentatively)
+- Sunday: FREE. (tentatively)
 
 ### Lucas Bellotto (Preferred Contact Method: Email @ lucs26b@my.yorku.ca OR Discord @ barrypixl#6514)
 > **Full Github Username:** lucs2626bb
