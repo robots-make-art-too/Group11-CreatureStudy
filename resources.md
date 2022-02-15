@@ -86,3 +86,41 @@ Idea of concept
 Idea of concept with low poly model
 ![imgs](https://image.winudf.com/v2/image/YW5pbWFsQVIuQ3JlYXRpdmVTdHVkaW8uYW5pbWFsQVJfc2NyZWVuXzRfMTUwODU0NjUxMV8wNjY/screen-4.jpg?fakeurl=1&type=.jpg)
 
+### LUCAS'S RESOURCES
+
+## TECHNICAL
+
+# argion.js
+[argion.js](https://www.argonjs.io/)
+
+# Beginner's Guide to Augmented Reality - Envanto
+[Beginner's Guide to Augmented Reality - Envanto](https://code.tutsplus.com/tutorials/beginners-guide-to-augmented-reality--active-4948)
+
+# BlippAR (engine)
+[BlippAR - Documentation](https://www.example.com)
+https://support.blippar.com/hc/en-us/articles/4406622267283-Introduction
+
+# Rhino
+[Rhino - download](https://www.rhino3d.com/download/)
+
+# OpenCV Augmented Reality
+[Introduction to Augmented Reality (AR) with Python 3 and OpenCV 4.2.](https://pythonrepo.com/repo/mafda-augmented_reality_101-python-computer-vision)
+
+
+
+## AETHESTIC
+
+# Arthopleura (wikiepedia definiton)
+[Arthropelura - Wikipedia](https://en.wikipedia.org/wiki/Arthropleura)
+
+# LSD: Dream Emulator
+[First 30 Minutes: LSD: Dream Emulator [PS1]](https://www.youtube.com/watch?v=ol4OSIGGukA)
+
+# Moai
+[Moai - Wikipedia](https://en.wikipedia.org/wiki/Moai)
+
+# Trevor Henderson
+[Treveor Hendorson](https://trevorhenderson.format.com/)
+
+# Pikmin Emenies
+[Pikipedia - Emeny](https://www.pikminwiki.com/Enemy)
