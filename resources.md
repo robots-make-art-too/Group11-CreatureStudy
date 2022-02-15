@@ -1,3 +1,5 @@
+# Resources (Yinkan Chen)
+
 # Technical
 Info on how ar is coded
 
