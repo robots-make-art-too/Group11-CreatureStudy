@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=jm_EUXOCVkU
 
 https://www.youtube.com/watch?v=XxlpnNEk6eY
 
-Image of dino
+Image of AR dino
 ![imgs](https://kidsactivitiesblog--o--com.follycdn.com/wp-content/uploads/2020/07/google-ar-dinosaurs-feature.png)
