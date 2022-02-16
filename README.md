@@ -35,7 +35,7 @@
 - Saturday: FREE
 - Sunday: FREE
 
-### Yuanchen Li (Preferred Contact Method: Discord @ lychen#4439 Email:lyc1070819770@163.com)
+### Yuanchen Li (Preferred Contact Method: Discord @ lychen#4439 OR Email: lyc1070819770@163.com)
 > **Full Github Username:** LychenN
 > **Timezone:** Eastern Standard Time
 - Monday: FREE after 12 PM.
