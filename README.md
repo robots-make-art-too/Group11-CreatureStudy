@@ -35,16 +35,16 @@
 - Saturday: FREE
 - Sunday: FREE
 
-### Yuanchen Li (Preferred Contact Method: N/A)
-> **Full Github Username:**
-> **Timezone:**
-- Monday:
-- Tuesday:
-- Wednesday:
-- Thursday:
-- Friday:
-- Saturday:
-- Sunday:
+### Yuanchen Li (Preferred Contact Method: Discord @ lychen#4439 OR Email: lyc1070819770@163.com)
+> **Full Github Username:** LychenN
+> **Timezone:** Eastern Standard Time
+- Monday: FREE after 12 PM.
+- Tuesday: FREE 
+- Wednesday: FREE
+- Thursday: FREE
+- Friday: FREE
+- Saturday: FREE after 12 PM.
+- Sunday:FREE after 12 PM.
 
 ### Gianluca Sabanito (Preferred Contact Method: Discord @ TypicalKnight007#7442)
 > **Full Github Username:** Gianlucasabanito
