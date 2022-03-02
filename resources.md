@@ -124,3 +124,17 @@ https://support.blippar.com/hc/en-us/articles/4406622267283-Introduction
 
 # Pikmin Emenies
 [Pikipedia - Emeny](https://www.pikminwiki.com/Enemy)
+
+
+## Resourses (Yuanchen Li)
+https://github.com/mafda/augmented_reality_101 
+
+https://developers.google.com/ar
+
+https://madhawacperera.medium.com/lets-build-your-first-augmented-reality-ar-enabled-webpage-93b9b884a3f2 
+
+https://www.freecodecamp.org/news/augmented-reality-with-javascript-a-case-study-c9cffaadcf07/
+
+# Image of AR
+
+https://www.dreamstime.com/photos-images/augmented-reality.html
