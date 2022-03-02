@@ -72,7 +72,7 @@
 - [X] The branch "dev-Lucas" exists.
 - [X] The branch "dev-Yinkan" exists.
 - [X] The branch "dev-Gianluca" exists.
-- [] The branch "dev-Yuanchen" exists.
+- [X] The branch "dev-Yuanchen" exists.
 
 # 5. Submit this document to the main branch.
 
