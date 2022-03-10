@@ -12,26 +12,33 @@ permalink: ar-index.html
 
 		<a-scene embedded arjs='sourceType: webcam;'>
 
-			<a-assets>
-				<a-asset-item id="arthro-obj" src="/assets/arthropleuraModel/arthropleura.obj"></a-asset-item> <!-- must have a subfolder that lumps the .mtl and .obj files together! -->
-				<a-asset-item id="arthro-mtl" src="/assets/arthropleuraModel/arthropleura.mtl"></a-asset-item>
-			</a-assets>
+			<a-marker-camera type='pattern' patternUrl='pattern-marker1.patt'>
+				<a-assets>
+					<a-asset-item id="arthro-obj" src="/assets/arthropleuraModel/arthropleura.obj"></a-asset-item> <!-- must have a subfolder that lumps the .mtl and .obj files together! -->
+					<a-asset-item id="arthro-mtl" src="/assets/arthropleuraModel/arthropleura.mtl"></a-asset-item>
+				</a-assets>
 
 			<a-entity obj-model="obj: #arthro-obj; mtl: #arthro-mtl"></a-entity>
 
-			<a-assets>
-				<a-asset-item id="df-obj" src="/assets/dragonflyModel/dragonflyModel.obj"></a-asset-item>
-				<a-asset-item id="df-mtl" src="/assets/dragonflyModel/dragonflyModel.mtl"></a-asset-item>
-			</a-assets>
+			</a-marker-camera>
+
+			<a-marker-camera type='pattern' patternUrl='pattern-marker2.patt'>
+				<a-assets>
+					<a-asset-item id="df-obj" src="/assets/dragonflyModel/dragonflyModel.obj"></a-asset-item>
+					<a-asset-item id="df-mtl" src="/assets/dragonflyModel/dragonflyModel.mtl"></a-asset-item>
+				</a-assets>
 
 			<a-entity obj-model="obj: #df-obj; mtl: #df-mtl"></a-entity>
+			</a-marker-camera>
 
-			<a-assets>
-				<a-asset-item id="scorpion-obj" src="/assets/scorpionModel/scorpionModel.obj"></a-asset-item>
-				<a-asset-item id="scorpion-mtl" src="/assets/scorpionModel/scorpionModel.mtl"></a-asset-item>
-			</a-assets>
+			<a-marker-camera type='pattern' patternUrl='pattern-marker3.patt'>
+				<a-assets>
+					<a-asset-item id="scorpion-obj" src="/assets/scorpionModel/scorpionModel.obj"></a-asset-item>
+					<a-asset-item id="scorpion-mtl" src="/assets/scorpionModel/scorpionModel.mtl"></a-asset-item>
+				</a-assets>
 
 			<a-entity obj-model="obj: #scorpion-obj; mtl: #scorpion-mtl"></a-entity>
+			</a-marker-camera>
 
 			<!-- .gltf format!
 
@@ -55,10 +62,9 @@ permalink: ar-index.html
 
 			-->
 
-			<a-box position='0 0.5 0' material='opacity: 0.5' color='yellow';></a-box>
-			<a-sphere position='1 0.5 0' color='blue';></a-sphere>
-			<a-marker-camera type='pattern' patternUrl='pattern-marker1.patt'></a-marker-camera>
-
+			<!-- idk if this stuff is needed if we have custom models + assets -->
+			<!--<a-box position='0 0.5 0' material='opacity: 0.5' color='yellow';></a-box>
+			<a-sphere position='1 0.5 0' color='blue';></a-sphere>-->
 
 		</a-scene>
 	</body>
