@@ -4,7 +4,7 @@ permalink: index
 
 # Front Page for Group 11's CREATURE STUDY AR Project
 
-<img src="carboniferous_animals_possibilities.jpg"/>
+![img](images/carboniferous_animals_possibilities.jpg)
 
 Just a little site example
 
