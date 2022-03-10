@@ -4,8 +4,6 @@ permalink: index
 
 # Front Page for Group 11's CREATURE STUDY AR Project
 
-<img src="docs/website/pages/carboniferous_animals_possibilities.jpg" class="img-responsive" alt="">
-
 Just a little site example
 
 ## AR Content:
