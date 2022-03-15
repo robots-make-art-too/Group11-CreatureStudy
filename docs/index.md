@@ -1,5 +1,4 @@
 ---
-permalink: index
 ---
 
 # Front Page for Group 11's CREATURE STUDY AR Project
