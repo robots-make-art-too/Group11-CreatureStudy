@@ -1,3 +1,3 @@
-document.getElementById("creatureSite").addEventListener("click", (e)=> {
+document.getElementById("creatureSite").onclick = function () {
     location.href = 'https://creaturestudy.carrd.co/';
-  })
+}
