@@ -20,7 +20,8 @@ AFRAME.registerComponent('markerhandler', {
         
         this.el.sceneEl.addEventListener('markerFound', () => {
             if (animatedMarker1 && aEntity1) {
-                if (confirm("Open this link?") == true) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Arthropleura', '_blank');
                 } else {
