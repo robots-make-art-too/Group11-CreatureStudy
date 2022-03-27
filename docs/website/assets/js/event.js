@@ -20,24 +20,53 @@ AFRAME.registerComponent('markerhandler', {
         
         this.el.sceneEl.addEventListener('markerFound', () => {
             if (animatedMarker1 && aEntity1) {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://en.wikipedia.org/wiki/Arthropleura', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
+                
             } else if (animatedMarker2 && aEntity2) {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://en.wikipedia.org/wiki/Pulmonoscorpius', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
+
             } else if (animatedMarker3 && aEntity3) {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://en.wikipedia.org/wiki/Meganeura', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
+
             } else if (animatedMarker4 && aEntity4) {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://dinopedia.fandom.com/wiki/Arthrolycosa', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
+
             } else if (animatedMarker5 && aEntity5) {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://en.wikipedia.org/wiki/Redback_spider', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
+
             } else {
-                // redirect to custom URL e.g. google.com
-                window.location = 'https://www.google.com/';
+                if (confirm("Open this link?")) {
+                    // redirect to custom URL.
+                    window.open('https://en.wikipedia.org/wiki/Proterogyrinus', '_blank');
+                } else {
+                    // disable the event that would be triggered when the marker is on screen
+                }
             }
         })
     }
-  });
+});
