@@ -25,47 +25,52 @@ AFRAME.registerComponent('markerhandler', {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Arthropleura', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
 
             } else if (animatedMarker2 && aEntity2) {
-                if (confirm("Open this link?") == true) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Pulmonoscorpius', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
 
             } else if (animatedMarker3 && aEntity3) {
-                if (confirm("Open this link?") == true) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Meganeura', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
 
             } else if (animatedMarker4 && aEntity4) {
-                if (confirm("Open this link?") == true) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://dinopedia.fandom.com/wiki/Arthrolycosa', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
 
             } else if (animatedMarker5 && aEntity5 == true) {
-                if (confirm("Open this link?")) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Redback_spider', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
 
             } else if (animatedMarker6 && aEntity6 == true){
-                if (confirm("Open this link?")) {
+                var check = confirm("Open this link?")
+                if (check == true) {
                     // redirect to custom URL.
                     window.open('https://en.wikipedia.org/wiki/Proterogyrinus', '_blank');
                 } else {
-                    // disable the event that would be triggered when the marker is on screen
+                    this.el.sceneEl.removeEventListener('markerFound');
                 }
             }
         })
