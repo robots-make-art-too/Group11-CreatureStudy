@@ -1,3 +1,3 @@
 document.getElementById("creatureSite").onclick = function () {
-    location.href = 'https://creaturestudy.carrd.co/';
+    window.open('https://creaturestudy.carrd.co/', '_blank');
 }
