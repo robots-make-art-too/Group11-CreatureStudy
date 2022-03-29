@@ -1,4 +1,4 @@
-button {
+#creatureSite {
     background-color: black;
     border: 5px solid #7700ed;
     border-radius: 10px;
@@ -12,7 +12,8 @@ button {
     cursor: pointer;
 
 }
-button:hover {
+
+#creatureSite:hover {
     background-color: white;
     color: blue;
     transition: 0.3s;
