@@ -31,28 +31,18 @@ layout: default
 	
 
 			<!-- LINK | DOCUMENTATION FOLDER FOR IMAGES AND TEXT -->
-			<button type="button" onclick="openTab('/Group11-CreatureStudy/tree/main/documentation_folder')">Click me to see documentation about the intended experience and other "behind the scenes" content!</button>
+			<button type="button" onclick="openTab()">Click me to see documentation about the intended experience and other "behind the scenes" content!</button>
 			<script>
-				function openTab(url) {
-					const link = document.createElement('a');
-					link.href = url;
-					link.target = '_blank';
-					document.body.appendChild(link);
-					link.click();
-					link.remove();
+				function openTab() {
+					window.open('https://github.com/robots-make-art-too/Group11-CreatureStudy/tree/main/documentation_folder', '_blank');
 				}
 			</script>
 
 			<!-- LINK | .PDF FILE FOR GROUP INFORMATION -->
-			<button type="button" onclick="openTab('/Group11-CreatureStudy/tree/main/documentation_folder/pdf')">Click me to see the .pdf file containing our group project's information!</button>
+			<button type="button" onclick="openTab()">Click me to see the .pdf file containing our group project's information!</button>
 			<script>
-				function openTab(url) {
-					const link = document.createElement('a');
-					link.href = url;
-					link.target = '_blank';
-					document.body.appendChild(link);
-					link.click();
-					link.remove();
+				function openTab() {
+					window.open('https://github.com/robots-make-art-too/Group11-CreatureStudy/tree/main/documentation_folder/pdf', '_blank');
 				}
 			</script>
 		</center>
