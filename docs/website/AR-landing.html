@@ -28,5 +28,38 @@ layout: default
 					link.remove();
 				}
 			</script>
+
+			<h2>Introduction:</h2>
+				<p>Hello! This is our landing page for our AR project called CREATURE STUDY! This project is a marker-based AR variant, complete with 6 custom markers and associated models that are meant to display (though not exactly) creatures from a prehistoric era.</p>
+
+			<h2>Story & Theme:</h2>
+				<p>Basically, we decided to study creatures from the carboniferous prehistoric era - and create models that one could view by having the custom markers in their possession, and viewed by either a desktop camera or through one's phone. Then, via a button to an external website, we would be able to display accurate, proper render images of said models and links to more information about them if the user was interested. So, while this is basically allowing the user to look at interesting models, it really is intended to be a learning / educational experience. I'm not sure how useful such information will be to most people, but knowing something more doesn't hurt, even if you might forget it later.</p>
+			
+			<h2>Instructions Once There:</h2>
+				<ol>
+					<li>Well, first, you have to click the button in the appropiate section above that'll take you to the actual AR scene!</li>
+					<li>Make sure you either have the custom marker book (printed out) or go to the assets folder <a href="https://github.com/robots-make-art-too/Group11-CreatureStudy/tree/gh-pages/docs/website/assets/markers">here</a> and save the .png files ONLY to your phone.</li>
+					<li>From here, it's pretty self-explantory - hold the marker up to the camera and see the models appear! Of course, with marker-based, the rotation of the models with the marker alone is a bit limited, but that's what the button at the bottom of the page is for!</li>
+					<li>If you click the button, it'll take you to a comprehensive external website with render images of the models, links to pages with more information on them, credit pages and our GitHub page, as well as other things!</li>
+				</ol>
+
+			<h2>Known Bugs:</h2>
+				<ul>
+					<li>The arthopleura model may or may not show up with its textures. Currently, we have no idea why such happens.</li>
+					<li>One of the spider models glitches around the marker more than normal; though that might be the result of an unsteady hand + using images on the phone as opposed to a printed one.</li>
+				</ul>
+
+			<h2>Link to Documentation Folder:</h2>
+				<button type="button" onclick="openTab('')">Click me to see documentation about the intended experience and other "behind the scenes" content!</button>
+				<script>
+					function openTab(url) {
+						const link = document.createElement('a');
+						link.href = url;
+						link.target = '_blank';
+						document.body.appendChild(link);
+						link.click();
+						link.remove();
+					}
+				</script>
 		</center>
 	</body>
